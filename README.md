@@ -1,6 +1,8 @@
 Free open sourse OSINT tool "Correlation". 
 
-Build file (Windows)
+Go to releases and dowload Correlation.exe
+
+Personal Build file (Windows)
 - Open cmd
 - pip install pyinstaller
 - cd /Correlation
