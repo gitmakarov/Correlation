@@ -7,4 +7,4 @@ Personal Build file (Windows)
 - pip install pyinstaller
 - cd /Correlation
 - build.bat
-After creating you can find Correlation.exe in /Correlation/Dist
+- After creating you can find Correlation.exe in /Correlation/Dist
